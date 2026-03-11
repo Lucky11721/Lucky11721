@@ -1,6 +1,25 @@
-# 💫 About Me:
-Final-year B.E. CSE (Hons.) – Big Data Analytics student at Chandigarh University with a strong interest in software engineering, data systems, and backend development. Experienced in Java, DSA, SQL, and Spring-based development, with hands-on work in machine learning, data analytics, and full-stack projects.<br><br>I enjoy solving algorithmic problems, building practical systems, and participating in hackathons and technical projects that combine data, AI, and scalable backend architecture.<br><br>Currently focused on:<br><br>Data Structures & Algorithms<br><br>Java + Spring Boot backend development<br><br>Data analytics and machine learning applications<br><br>Open to opportunities where I can contribute to building reliable systems, working with data, and solving real engineering problems.
+## 👨‍💻 About Me
 
+- 🎓 Final-year **B.E. CSE (Hons.) – Big Data Analytics** student at **Chandigarh University**
+- 💻 Strong focus on **Java Backend Development, Data Structures & Algorithms**
+- ⚙️ Experienced with **Java, Spring Boot, SQL, REST APIs, and Git**
+- 📊 Interested in **Data Analytics, Machine Learning, and scalable backend systems**
+- 🚀 Actively building projects and solving **DSA problems on LeetCode**
+
+### 🔭 Current Focus
+- Mastering **Spring Boot & Microservices**
+- Improving **DSA and problem solving**
+- Building **backend + data-driven applications**
+
+### 🤝 Open To
+- Backend development collaborations  
+- Open source contributions  
+- Internship / entry-level **Software Engineer roles**
+
+### 💬 Ask Me About
+- Java & Spring Boot  
+- Data Structures & Algorithms  
+- Backend development  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucky-ahirwar-abaa8324a) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@lg1675682) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/lucky-gautam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lg1675682@gmail.com) 
